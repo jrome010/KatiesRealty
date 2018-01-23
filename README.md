@@ -1,2 +1,0 @@
-# KatiesRealty
-Realty company test
